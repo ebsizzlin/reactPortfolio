@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { useRouteMatch, NavLink, Link } from "react-router-dom";
 import { FaTwitter, FaGithub, FaInstagram } from "react-icons/fa";
-// Components
-import DemoOptions from "../../components/common/DemoOptions";
 
 const links = [
     {
@@ -17,22 +15,22 @@ const links = [
         title: "Resume",
         path: "/resume",
     },
-    {
-        title: "Service",
-        path: "/service",
-    },
+    // {
+    //     title: "Service",
+    //     path: "/service",
+    // },
     {
         title: "Portfolio",
         path: "/portfolio",
     },
-    {
-        title: "Blog",
-        path: "/blog",
-    },
-    {
-        title: "Testimonial",
-        path: "/testimonial",
-    },
+    // {
+    //     title: "Blog",
+    //     path: "/blog",
+    // },
+    // {
+    //     title: "Testimonial",
+    //     path: "/testimonial",
+    // },
     {
         title: "Contact",
         path: "/contact",
@@ -135,7 +133,6 @@ function Header() {
                 </div>
                 <span className="sidenav-close" />
             </div>
-            <DemoOptions />
         </>
     );
 }
