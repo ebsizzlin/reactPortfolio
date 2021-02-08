@@ -2,7 +2,7 @@
 
 ## Descrption
 
-Professional Portfolio made with React.js and
+Professional Portfolio made with React.js.
 
 ## Tech Used
 
