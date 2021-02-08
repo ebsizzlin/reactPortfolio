@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.76262749.chunk.css",
-    "main.js": "/static/js/main.98ba0514.chunk.js",
-    "main.js.map": "/static/js/main.98ba0514.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7409b536.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7409b536.js.map",
-    "static/css/2.50373daa.chunk.css": "/static/css/2.50373daa.chunk.css",
-    "static/js/2.4d67733d.chunk.js": "/static/js/2.4d67733d.chunk.js",
-    "static/js/2.4d67733d.chunk.js.map": "/static/js/2.4d67733d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9e7c7866daf89cc3e34ddb27be3ab484.js": "/precache-manifest.9e7c7866daf89cc3e34ddb27be3ab484.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.50373daa.chunk.css.map": "/static/css/2.50373daa.chunk.css.map",
-    "static/css/main.76262749.chunk.css.map": "/static/css/main.76262749.chunk.css.map",
-    "static/js/2.4d67733d.chunk.js.LICENSE.txt": "/static/js/2.4d67733d.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
+    "main.css": "https://ebsizzlin.github.io/reactPortfolio/static/css/main.76262749.chunk.css",
+    "main.js": "https://ebsizzlin.github.io/reactPortfolio/static/js/main.a8e1b91c.chunk.js",
+    "main.js.map": "https://ebsizzlin.github.io/reactPortfolio/static/js/main.a8e1b91c.chunk.js.map",
+    "runtime-main.js": "https://ebsizzlin.github.io/reactPortfolio/static/js/runtime-main.cabd52b3.js",
+    "runtime-main.js.map": "https://ebsizzlin.github.io/reactPortfolio/static/js/runtime-main.cabd52b3.js.map",
+    "static/css/2.6ddd1912.chunk.css": "https://ebsizzlin.github.io/reactPortfolio/static/css/2.6ddd1912.chunk.css",
+    "static/js/2.4d67733d.chunk.js": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4d67733d.chunk.js",
+    "static/js/2.4d67733d.chunk.js.map": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4d67733d.chunk.js.map",
+    "index.html": "https://ebsizzlin.github.io/reactPortfolio/index.html",
+    "precache-manifest.d84fdbd6ec918e119a4c1c12c104a3dd.js": "https://ebsizzlin.github.io/reactPortfolio/precache-manifest.d84fdbd6ec918e119a4c1c12c104a3dd.js",
+    "service-worker.js": "https://ebsizzlin.github.io/reactPortfolio/service-worker.js",
+    "static/css/2.6ddd1912.chunk.css.map": "https://ebsizzlin.github.io/reactPortfolio/static/css/2.6ddd1912.chunk.css.map",
+    "static/css/main.76262749.chunk.css.map": "https://ebsizzlin.github.io/reactPortfolio/static/css/main.76262749.chunk.css.map",
+    "static/js/2.4d67733d.chunk.js.LICENSE.txt": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4d67733d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "https://ebsizzlin.github.io/reactPortfolio/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7409b536.js",
-    "static/css/2.50373daa.chunk.css",
+    "static/js/runtime-main.cabd52b3.js",
+    "static/css/2.6ddd1912.chunk.css",
     "static/js/2.4d67733d.chunk.js",
     "static/css/main.76262749.chunk.css",
-    "static/js/main.98ba0514.chunk.js"
+    "static/js/main.a8e1b91c.chunk.js"
   ]
 }
