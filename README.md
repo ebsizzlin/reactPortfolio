@@ -10,6 +10,8 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 
 ## GitHub Pages Link
 
+It only works locally it turns up blank no matter what I do anywhere else.
+https://ebsizzlinreactportfolio.herokuapp.com/
 https://ebsizzlin.github.io/reactPortfolio
 
 ## Screenshots
