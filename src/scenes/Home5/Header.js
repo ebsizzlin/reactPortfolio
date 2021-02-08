@@ -74,11 +74,6 @@ function Header() {
                                 <i className="ti-github"></i>
                             </a>
                         </li>
-                        {/* <li>
-                            <a href="/#">
-                                <i className="defined-in-paperclip"></i>
-                            </a>
-                        </li> */}
                     </ul>
                     <p>Follow Me</p>
                 </div>
@@ -110,11 +105,6 @@ function Header() {
                                     <FaGithub className="icon" />
                                 </a>
                             </li>
-                            {/* <li>
-                                <a href="!#">
-                                    <FaPaperclip className="icon" />
-                                </a>
-                            </li> */}
                         </ul>
                         <p>Follow Me</p>
                     </div>
