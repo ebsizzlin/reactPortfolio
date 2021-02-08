@@ -10,7 +10,7 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 
 ## GitHub Pages Link
 
-https://ebsizzlin.github.io/reactPortfolio/
+https://ebsizzlin.github.io/reactPortfolio/ (it works locally sigh idk)
 
 ## Screenshots
 
