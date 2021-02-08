@@ -6,7 +6,7 @@ function PageHelmet(props) {
 
     return (
         <Helmet>
-            <title>{title}</title>
+            <title>{title} || React Multipurpose Template</title>
             {description && <meta name="description" content={description} />}
             {children}
         </Helmet>
