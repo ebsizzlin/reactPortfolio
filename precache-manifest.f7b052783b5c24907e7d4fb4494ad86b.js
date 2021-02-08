@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6e6b9d33f5ded52312c92906c42bd84",
+    "revision": "03ce61c040dd30f5e0ca1ed11f68845c",
     "url": "https://ebsizzlin.github.io/reactPortfolio/index.html"
   },
   {
-    "revision": "e942ef43f3b89fab80e6",
+    "revision": "75323aae84afe7c644c3",
     "url": "https://ebsizzlin.github.io/reactPortfolio/static/css/2.6ddd1912.chunk.css"
   },
   {
-    "revision": "e4750e8e8bef63c10e69",
+    "revision": "422e5f7a29e356f2d437",
     "url": "https://ebsizzlin.github.io/reactPortfolio/static/css/main.76262749.chunk.css"
   },
   {
-    "revision": "e942ef43f3b89fab80e6",
-    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4d67733d.chunk.js"
+    "revision": "75323aae84afe7c644c3",
+    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4075bb5b.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4d67733d.chunk.js.LICENSE.txt"
+    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/2.4075bb5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4750e8e8bef63c10e69",
-    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/main.a8e1b91c.chunk.js"
+    "revision": "422e5f7a29e356f2d437",
+    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/main.e034055d.chunk.js"
   },
   {
-    "revision": "f55670afe467f0060780",
-    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/runtime-main.cabd52b3.js"
+    "revision": "5107f5b06f24174b3d69",
+    "url": "https://ebsizzlin.github.io/reactPortfolio/static/js/runtime-main.0e42ff52.js"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
