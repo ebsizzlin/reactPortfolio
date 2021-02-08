@@ -10,6 +10,8 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 
 ## GitHub Pages Link
 
+https://ebsizzlin.github.io/reactPortfolio/ (maybe)
+
 ## Screenshots
 
 <img width="1914" alt="Screen Shot 2021-02-08 at 12 24 39 AM" src="https://user-images.githubusercontent.com/70185995/107179320-3b936300-69a4-11eb-8886-51b191edd6c2.png">
