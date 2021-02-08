@@ -64,9 +64,9 @@ function Intro() {
                                 <span>Videographer</span>
                             </TextLoop>
                             <br />
-                            I create Websites and Applications.
+                            I create Websites and Applications :)
                             <br />
-                            Based in the US.
+                            Based in the US / France.
                         </h1>
                         <div className="el-icon">
                             <p className="el-icon-title">

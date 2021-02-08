@@ -21,10 +21,10 @@ function Contact() {
                                         <span className="el-icon-title">CONTACT ME</span>
                                     </h2>
                                     <h3>
-                                        <span>Get in touch with me today.</span>
+                                        <span>Get in touch with me today :)</span>
                                     </h3>
                                     <div className="divider divider-1"></div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim enim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p>Also contactable at <a href="(919)724-1334">(919)724-1334</a> or <a href="ebsizzlin7@gmail.com">ebsizzlin7@gmail.com</a>!</p>
                                 </header>
                                 <form className="form form-1 pt-15">
                                     <Row className="row">

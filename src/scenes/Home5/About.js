@@ -24,7 +24,8 @@ function About() {
                                         <span>Hey, I'm Ella!</span>
                                     </h3>
                                     <div className="divider divider-1"></div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim enim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <p>Ambitious full-stack coder, motion graphics creator, graphic design student, and freelancing content creator! Currently pursuing animation and animation adjacent fields.</p>    
+                                    <p>Experienced in dance, soccer, and skate videography + editing as well as sound mixing for advertisements and student film.</p>
                                 </header>
                                 <Row className="pt-30">
                                     <Col xs={12} sm={12} md={6}>
@@ -33,8 +34,8 @@ function About() {
                                                 <span className="el-icon-icon ti-ruler-pencil"></span>
                                             </div>
                                             <div className="content">
-                                                <h5>Web design</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <h5>Web Design</h5>
+                                                <p>Rookie Full Stack Developer (HTML, CSS, JQuery, JS, MongoDB, Node.js, Express, MySQL, IndexedDB, JSON, AJAX, PWA, Responsive Design, Handlebars, GitHub, Heroku)</p>
                                             </div>
                                         </div>
                                     </Col>
@@ -45,51 +46,51 @@ function About() {
                                             </div>
                                             <div className="content">
                                                 <h5>Graphic Design</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <p>Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Adobe XD, Procreate</p>
                                             </div>
                                         </div>
                                     </Col>
                                     <Col xs={12} sm={12} md={6}>
                                         <div className="el-card-icon">
                                             <div className="el-icon">
-                                                <span className="el-icon-icon ti-brush-alt"></span>
+                                                <span className="el-icon-icon ti-video-camera"></span>
                                             </div>
                                             <div className="content">
-                                                <h5>Development</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <h5>Videgraphy</h5>
+                                                <p>DSLR, Gimbal, preference for motion</p>
                                             </div>
                                         </div>
                                     </Col>
                                     <Col xs={12} sm={12} md={6}>
                                         <div className="el-card-icon">
                                             <div className="el-icon">
-                                                <span className="el-icon-icon ti-ruler-pencil"></span>
+                                                <span className="el-icon-icon ti-game"></span>
                                             </div>
                                             <div className="content">
-                                                <h5>Mobile Apps</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <h5>Motion Graphics</h5>
+                                                <p>Adobe Premiere, Adobe After Effects</p>
                                             </div>
                                         </div>
                                     </Col>
                                     <Col xs={12} sm={12} md={6}>
                                         <div className="el-card-icon">
                                             <div className="el-icon">
-                                                <span className="el-icon-icon ti-ruler-pencil"></span>
+                                                <span className="el-icon-icon ti-palette"></span>
                                             </div>
                                             <div className="content">
-                                                <h5>UI/UX Designer</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <h5>Animation</h5>
+                                                <p>Blender, Adobe After Effects, in process of learning Maya, Z-Brush, C++, and Python</p>
                                             </div>
                                         </div>
                                     </Col>
                                     <Col xs={12} sm={12} md={6}>
                                         <div className="el-card-icon">
                                             <div className="el-icon">
-                                                <span className="el-icon-icon ti-mobile"></span>
+                                                <span className="el-icon-icon ti-music-alt"></span>
                                             </div>
                                             <div className="content">
-                                                <h5>Marketing Online</h5>
-                                                <p>Lorem ipsum dolor sit amet Consectetur adipisicing elit.</p>
+                                                <h5>Music Production</h5>
+                                                <p>Ableton, Reason, Midi Fighter</p>
                                             </div>
                                         </div>
                                     </Col>

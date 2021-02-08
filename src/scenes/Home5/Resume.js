@@ -6,15 +6,15 @@ import ProgressBar from "../../components/common/ProgressBar";
 const skills = [
     {
         title: "Web Design",
-        percent: 75,
+        percent: 50,
     },
     {
         title: "Animation",
-        percent: 60,
+        percent: 70,
     },
     {
         title: "Graphic Design",
-        percent: 75,
+        percent: 60,
     },
     {
         title: "Creativity",
@@ -22,11 +22,11 @@ const skills = [
     },
     {
         title: "Screenwriting",
-        percent: 70,
+        percent: 65,
     },
     {
         title: "Videography",
-        percent: 90,
+        percent: 75,
     },
 ];
 const education = [
