@@ -10,7 +10,7 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 
 ## GitHub Pages Link
 
-https://ebsizzlin.github.io/reactPortfolio/ (maybe)
+https://ebsizzlin.github.io/reactPortfolio/ (maybe - keeps coming up blank? did i do smth wrong in the package?)
 
 ## Screenshots
 
