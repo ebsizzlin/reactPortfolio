@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useRouteMatch, NavLink, Link } from "react-router-dom";
-import { FaTwitter, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram, FaPaperclip } from "react-icons/fa";
 
 const links = [
     {
@@ -15,22 +15,10 @@ const links = [
         title: "Resume",
         path: "/resume",
     },
-    // {
-    //     title: "Service",
-    //     path: "/service",
-    // },
     {
         title: "Portfolio",
         path: "/portfolio",
     },
-    // {
-    //     title: "Blog",
-    //     path: "/blog",
-    // },
-    // {
-    //     title: "Testimonial",
-    //     path: "/testimonial",
-    // },
     {
         title: "Contact",
         path: "/contact",
@@ -51,7 +39,7 @@ function Header() {
         <>
             <header className="app-header app-header-1">
                 <div className="header-logo">
-                    <Link to={`url`.replace(/([^:])(\/\/+)/g, "$1/")}>Miro.</Link>
+                    <Link to={`url`.replace(/([^:])(\/\/+)/g, "$1/")}>ella</Link>
                 </div>
                 <button className="button button-menu" onClick={(e) => handleClick(e)}>
                     <span></span>
@@ -77,20 +65,20 @@ function Header() {
                 <div className="header-follow">
                     <ul>
                         <li>
-                            <a href="/#">
-                                <i className="ti-twitter-alt"></i>
+                            <a href="https://www.linkedin.com/in/ebsizzlin/">
+                                <i className="ti-linkedin"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="/#">
+                            <a href="https://github.com/ebsizzlin">
                                 <i className="ti-github"></i>
                             </a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a href="/#">
-                                <i className="ti-vimeo-alt"></i>
+                                <i className="defined-in-paperclip"></i>
                             </a>
-                        </li>
+                        </li> */}
                     </ul>
                     <p>Follow Me</p>
                 </div>
@@ -98,7 +86,7 @@ function Header() {
             <div className={`app-sidenav ${displaySidenav && "active"}`}>
                 <div className="sidenav-menu">
                     <div className="logo">
-                        <Link to={`url`.replace(/([^:])(\/\/+)/g, "$1/")}>Miro</Link>
+                        <Link to={`url`.replace(/([^:])(\/\/+)/g, "$1/")}>ella</Link>
                     </div>
                     <button className="button" onClick={(e) => handleClick(e)}></button>
                     <ul className="sidenav-nav">
@@ -113,20 +101,20 @@ function Header() {
                     <div className="sidenav-links">
                         <ul>
                             <li>
-                                <a href="!#">
-                                    <FaTwitter className="icon" />
+                                <a href="https://www.linkedin.com/in/ebsizzlin/">
+                                    <FaLinkedin className="icon" />
                                 </a>
                             </li>
                             <li>
-                                <a href="!#">
+                                <a href="https://github.com/ebsizzlin">
                                     <FaGithub className="icon" />
                                 </a>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a href="!#">
-                                    <FaInstagram className="icon" />
+                                    <FaPaperclip className="icon" />
                                 </a>
-                            </li>
+                            </li> */}
                         </ul>
                         <p>Follow Me</p>
                     </div>

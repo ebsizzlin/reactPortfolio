@@ -58,14 +58,15 @@ function Intro() {
                         <h1>
                             I'm a{" "}
                             <TextLoop>
-                                <span>Digital Product Designer</span>
-                                <span>Graphic Designer</span>
                                 <span>Web Developer</span>
+                                <span>Graphic Designer</span>
+                                <span>Animator</span>
+                                <span>Videographer</span>
                             </TextLoop>
                             <br />
                             I create Websites and Applications.
                             <br />
-                            Based in New York, USA.
+                            Based in the US.
                         </h1>
                         <div className="el-icon">
                             <p className="el-icon-title">
