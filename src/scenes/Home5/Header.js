@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useRouteMatch, NavLink, Link } from "react-router-dom";
-import { FaLinkedin, FaGithub, FaInstagram, FaPaperclip } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 
 const links = [
     {
@@ -66,12 +66,12 @@ function Header() {
                     <ul>
                         <li>
                             <a href="https://www.linkedin.com/in/ebsizzlin/">
-                                <i className="ti-linkedin"></i>
+                                <FaLinkedin className="icon" />
                             </a>
                         </li>
                         <li>
                             <a href="https://github.com/ebsizzlin">
-                                <i className="ti-github"></i>
+                                <FaGithub className="icon" />
                             </a>
                         </li>
                     </ul>

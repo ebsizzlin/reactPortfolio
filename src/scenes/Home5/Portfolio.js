@@ -216,8 +216,8 @@ const portfolio = [
                     href="https://github.com/ebsizzlin/burger" target=" blank"
                     >GitHub Repo
                 </a>,
-                src: "/assets/images/portfolio/5-1.jpg",
-                thumbnail: "/assets/images/portfolio/5-1.jpg",
+                src: project5image,
+                thumbnail: project5image,
             },
             {
                 id: 1,
@@ -235,8 +235,8 @@ const portfolio = [
                     href="https://github.com/ebsizzlin/workoutTracker" target=" blank"
                     >GitHub Repo
                 </a>,
-                src: "/assets/images/portfolio/5-2.jpg",
-                thumbnail: "/assets/images/portfolio/5-2.jpg",
+                src: project2image,
+                thumbnail: project2image,
             },
             {
                 id: 2,
@@ -254,8 +254,8 @@ const portfolio = [
                     href="https://github.com/pdnarmi/project2GroupRepo" target=" blank"
                     >GitHub Repo
                 </a>,
-                src: "/assets/images/portfolio/5-3.jpg",
-                thumbnail: "/assets/images/portfolio/5-3.jpg",
+                src: project3image,
+                thumbnail: project3image,
             },
             {
                 id: 3,
@@ -273,8 +273,8 @@ const portfolio = [
                     >GitHub Repo
                 </a>,
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-4.jpg",
-                thumbnail: "/assets/images/portfolio/5-4.jpg",
+                src: project4image,
+                thumbnail: project4image,
             },
             {
                 id: 4,
@@ -292,8 +292,27 @@ const portfolio = [
                     >GitHub Repo
                 </a>,
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-11.jpg",
-                thumbnail: "/assets/images/portfolio/5-11.jpg",
+                src: project11image,
+                thumbnail: project11image,
+            },
+            {
+                id: 11,
+                title: "Game Guide",
+                subtitle:
+                <a
+                    class="nav-link"
+                    href="https://bcummings32.github.io/Project-1-Soccer-Scores/" target="_blank"
+                    >Deployed Site
+                </a>,
+                subtitle2:
+                <a
+                    class="nav-link"
+                    href="https://github.com/Bcummings32/Project-1-Soccer-Scores" target=" blank"
+                    >GitHub Repo
+                </a>,
+                link: "/portfolio-details",
+                src: project12image,
+                thumbnail: project12image,
             },
         ],
     },
@@ -305,8 +324,8 @@ const portfolio = [
                 title: "strwbry mylk x bang sangho",
                 subtitle: "AE/PS Sample Intro Clip",
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-5.jpg",
-                thumbnail: "/assets/images/portfolio/5-5.jpg",
+                src: project1image,
+                thumbnail: project1image,
             },
             {
                 id: 5,
@@ -319,8 +338,8 @@ const portfolio = [
                 >[YouTube]
                 </a>,
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-6.jpg",
-                thumbnail: "/assets/images/portfolio/5-6.jpg",
+                src: project6image,
+                thumbnail: project6image,
             },
             {
                 id: 6,
@@ -333,8 +352,8 @@ const portfolio = [
                 >[YouTube]
                 </a>,
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-7.jpg",
-                thumbnail: "/assets/images/portfolio/5-7.jpg",
+                src: project7image,
+                thumbnail: project7image,
             },
         ],
     },
@@ -346,24 +365,24 @@ const portfolio = [
                 title: "Animation Logo",
                 subtitle: "Expo Logo Mock-Up",
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-8.jpg",
-                thumbnail: "/assets/images/portfolio/5-8.jpg",
+                src: project8image,
+                thumbnail: project8image,
             },
             {
                 id: 8,
                 title: "Animation Logo Pattern",
                 subtitle: "Expo Merch Mock-Up",
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-9.jpg",
-                thumbnail: "/assets/images/portfolio/5-9.jpg",
+                src: project9image,
+                thumbnail: project9image,
             },
             {
                 id: 9,
                 title: "strwbry mylk logo",
                 subtitle: "Beat Maker's Logo Design",
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/5-10.jpg",
-                thumbnail: "/assets/images/portfolio/5-10.jpg",
+                src: project10image,
+                thumbnail: project10image,
             },
         ],
     },
@@ -400,6 +419,12 @@ const images = [
     {
         src: "/assets/images/portfolio/5-10.jpg",
     },
+    {
+        src: "/assets/images/portfolio/5-11.jpg",
+    },
+    {
+        src: "/assets/images/portfolio/5-12.jpg",
+    },
 ];
 
 function Portfolio() {
@@ -430,6 +455,7 @@ function Portfolio() {
                                             <div className="portfolio-item">
                                                 <div className="portfolio-card">
                                                     <div className="image overlay-image" style={{ backgroundImage: `url(${item.src})` }} />
+                                                    {/* <img className="image overlay-image" src={item.src}/> */}
                                                     <div className="content">
                                                         <button className="button button-circle button-icon button-circle-md button-primary">
                                                             <span className="el-icon-icon ti-fullscreen"></span>

@@ -10,7 +10,9 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 
 ## GitHub Pages Link
 
-https://ebsizzlin.github.io/reactPortfolio/ (it works locally why does it not show icons or photos once deployed sigh)
+(lots of image/icon deployment issues so if the first link doesnt work the second will)
+https://ebsizzlin.github.io/reactPortfolio/
+https://ebsizzlin.github.io/testPortfolio/
 
 ## Screenshots
 

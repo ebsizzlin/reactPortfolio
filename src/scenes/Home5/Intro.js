@@ -3,6 +3,7 @@ import TextLoop from "react-text-loop";
 import Particles from "react-particles-js";
 import { Container } from "react-grid-system";
 import backgroundImage from "../../assets/images/hero/5-1.jpg"
+import { FaArrowDown } from "react-icons/fa";
 
 function Intro() {
     return (
@@ -72,7 +73,7 @@ function Intro() {
                         </h1>
                         <div className="el-icon">
                             <p className="el-icon-title">
-                                About Me <span className="icon ti-arrow-down" />
+                                About Me < FaArrowDown className="icon ti-arrow-down" />
                             </p>
                         </div>
                     </div>

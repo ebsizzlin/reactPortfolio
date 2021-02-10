@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Hidden, Row, Col } from "react-grid-system";
+import contactimage from "../../assets/images/contact/5-1.jpg";
 
 function Contact() {
     return (
@@ -10,7 +11,7 @@ function Contact() {
                         <Hidden xs sm md>
                             <Col lg={5}>
                                 <div className="contact-image">
-                                    <div className="image overlay-image" style={{ backgroundImage: `url(/assets/images/contact/5-1.jpg)` }}></div>
+                                    <img className="image overlay-image" src={contactimage} style={{zIndex: -1, backgroundSize: 'cover', width: '100vw', height: '51.2vh'}}></img>
                                 </div>
                             </Col>
                         </Hidden>

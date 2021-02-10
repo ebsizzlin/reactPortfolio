@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Hidden, Row, Col } from "react-grid-system";
-// import "/assets/images/about/5-1.jpg"
+import aboutimage from "../../assets/images/about/5-1.png";
 
 function About() {
     return (
@@ -10,8 +10,8 @@ function About() {
                     <Row>
                         <Hidden xs sm md>
                             <Col lg={5}>
-                                <div className="about-image">
-                                    <div className="image overlay-image" style={{ backgroundImage: `url(/assets/images/about/5-1.jpg)` }}></div>
+                                <div className="contact-about">
+                                    <img className="image overlay-image" src={aboutimage} style={{zIndex: -1, backgroundSize: 'cover', width: '100vw', height: '70vh'}}></img>
                                 </div>
                             </Col>
                         </Hidden>
