@@ -11,8 +11,7 @@ HTML, CSS, Javascript, SCSS, Themify, React.js
 ## GitHub Pages Link
 
 (lots of image/icon deployment issues so if the first link doesnt work the second will)
-https://ebsizzlin.github.io/reactPortfolio/
-https://ebsizzlin.github.io/testPortfolio/
+https://ebsizzlin.github.io/reactPortfolio/ || https://ebsizzlin.github.io/testPortfolio/
 
 ## Screenshots
 
