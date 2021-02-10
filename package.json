@@ -1,8 +1,8 @@
 {
-  "name": "testPortfolio",
+  "name": "reactPortfolio2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ebsizzlin.github.io/testPortfolio",
+  "homepage": "https://ebsizzlin.github.io/reactPortfolio2",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "@testing-library/jest-dom": "^4.2.4",
