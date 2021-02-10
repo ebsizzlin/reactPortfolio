@@ -2,10 +2,12 @@ import React from "react";
 import TextLoop from "react-text-loop";
 import Particles from "react-particles-js";
 import { Container } from "react-grid-system";
+import backgroundImage from "../../assets/images/hero/5-1.jpg"
 
 function Intro() {
     return (
-        <section className="section section-hero section-hero-5 overlay-image" style={{ backgroundImage: `url(/assets/images/hero/5-1.jpg)` }}>
+        <section className="section section-hero section-hero-5 overlay-image" style={{ backgroundImage }}>
+            <img src={backgroundImage} style={{zIndex: -1, backgroundSize: 'cover', width: "100vw", height: "100vh"}}/>
             <Particles
                 params={{
                     particles: {

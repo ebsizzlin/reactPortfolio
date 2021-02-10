@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Hidden, Row, Col } from "react-grid-system";
+// import "/assets/images/about/5-1.jpg"
 
 function About() {
     return (
